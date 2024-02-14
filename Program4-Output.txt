@@ -1,0 +1,127 @@
+Name:    Marshal Pfluger
+Course:  COSC 4302 Operating Systems
+Project: Four
+
+
+
+Would you like to enter numbers or generate random values?
+Type '1' to enter your own list or type '2' to create random list: 
+1
+
+Please enter the list of intergers seperated by a space
+1  3, 5 3  2
+
+sortedList: [1, 2, 3, 3, 5]
+
+Enter '0' to exit or hit enter to re run
+
+
+Would you like to enter numbers or generate random values?
+Type '1' to enter your own list or type '2' to create random list: 
+2
+
+Please enter the number of random integers to randomly create: 
+50
+
+sortedList: [1, 4, 8, 9, 11, 12, 23, 24, 26, 27, 30, 31, 32, 32, 36, 37, 41, 41, 42, 43, 43, 44, 46, 46, 54, 56, 56, 57, 60, 63, 63, 64, 65, 66, 72, 75, 75, 75, 76, 77, 78, 84, 85, 87, 87, 93, 94, 95, 97, 98]
+
+Enter '0' to exit or hit enter to re run
+
+
+Would you like to enter numbers or generate random values?
+Type '1' to enter your own list or type '2' to create random list: 
+2
+
+Please enter the number of random integers to randomly create: 
+g
+
+Your Input was invalid.
+Please try again: 
+2 3
+
+Your Input was invalid.
+Please try again: 
+23
+
+sortedList: [12, 15, 19, 20, 27, 28, 40, 45, 48, 49, 53, 57, 59, 61, 72, 81, 82, 86, 86, 92, 93, 97, 98]
+
+Enter '0' to exit or hit enter to re run
+0
+
+Thank you!
+**PROGRAM TERMINATED**
+
+**************************Second Run**************************
+Name:    Marshal Pfluger
+Course:  COSC 4302 Operating Systems
+Project: Four
+
+
+
+Would you like to enter numbers or generate random values?
+Type '1' to enter your own list or type '2' to create random list: 
+1
+
+Please enter the list of intergers seperated by a space
+1 3   6 , 3 5 2
+
+sortedList: [1, 2, 3, 3, 5, 6]
+
+Enter '0' to exit or hit enter to re run
+
+
+Would you like to enter numbers or generate random values?
+Type '1' to enter your own list or type '2' to create random list: 
+2
+
+Please enter the number of random integers to randomly create: 
+9
+
+sortedList: [9, 10, 42, 43, 50, 51, 64, 70, 76]
+
+Enter '0' to exit or hit enter to re run
+
+
+Would you like to enter numbers or generate random values?
+Type '1' to enter your own list or type '2' to create random list: 
+2
+
+Please enter the number of random integers to randomly create: 
+5
+
+sortedList: [5, 33, 46, 68, 95]
+
+Enter '0' to exit or hit enter to re run
+
+
+Would you like to enter numbers or generate random values?
+Type '1' to enter your own list or type '2' to create random list: 
+2
+
+Please enter the number of random integers to randomly create: 
+g
+
+Your Input was invalid.
+Please try again: 
+2
+
+sortedList: [30, 34]
+
+Enter '0' to exit or hit enter to re run
+
+
+Would you like to enter numbers or generate random values?
+Type '1' to enter your own list or type '2' to create random list: 
+1
+
+Please enter the list of intergers seperated by a space
+1 g 3 2
+
+you have entered invalid input.
+You must enter only integers seperated by spaces.
+Please try again: 
+1 2 3 4
+
+sortedList: [1, 2, 3, 4]
+
+Enter '0' to exit or hit enter to re run
